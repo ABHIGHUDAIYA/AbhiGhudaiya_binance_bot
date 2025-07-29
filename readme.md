@@ -53,7 +53,7 @@ Follow these steps to set up and run the bot on your local machine.
 ### 1\. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/ABHIGHUDAIYA/AbhiGhudaiya_binance_bot
 cd binance-futures-bot
 ```
 
